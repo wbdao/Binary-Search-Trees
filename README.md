@@ -27,7 +27,7 @@ This project implements a Balanced Binary Search Tree (BST) in JavaScript. It in
    ```
 2. Open the project folder:
    ```bash
-   cd balanced-bst
+   cd Binary-Search-Trees
    ```
 3. Run the project using a browser or Node.js
 
